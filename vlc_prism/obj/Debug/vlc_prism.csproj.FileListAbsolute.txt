@@ -1,0 +1,10 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\bin\Debug\vlc_prism.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\bin\Debug\vlc_prism.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\bin\Debug\vlc_prism.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\obj\Debug\vlc_prism.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\obj\Debug\vlc_prism.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\obj\Debug\vlc_prism.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\obj\Debug\vlc_prism.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\obj\Debug\vlc_prism.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\obj\Debug\vlc_prism.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_prism\vlc_prism\bin\Debug\TeamPrecision.AD.dll
